@@ -8593,7 +8593,7 @@ msgstr ""
 "souvenir. Nous appellerions le petit orphelin Konrad et l'élèverions pour "
 "qu'il devienne roi ; j'affirmerais avoir éliminé les gardes avant qu'ils "
 "n'eussent eu le temps de perpétrer leur crime. Personne n'aurait jamais "
-"besoin de connaître la vérité, et en tout cas personne ne la savait jusques "
+"besoin de connaître la vérité, et en tout cas personne ne la savait jusque "
 "à maintenant."
 
 #. [part]
